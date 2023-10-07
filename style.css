@@ -140,6 +140,7 @@ section {
 }
 .viewMoreDiv{
   background-color:white;
+  height:15px;
   width:80px;
   padding:3%;
   border-radius:10%;
